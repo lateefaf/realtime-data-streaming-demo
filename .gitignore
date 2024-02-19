@@ -1,0 +1,10 @@
+# Virtual environment
+bin/
+de-env/ # Assuming this is a typo for a virtual environment directory
+lib/
+lib64/
+pyvenv.cfg
+
+# Python cache files
+__pycache__/
+*.py[cod]
