@@ -1,0 +1,11 @@
+
+# Virtual environment
+bin/
+de-env/
+lib/
+lib64/
+pyvenv.cfg
+
+# Python cache files
+__pycache__/
+*.py[cod]
